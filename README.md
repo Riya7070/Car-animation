@@ -45,11 +45,11 @@ Make sure you have the required OpenGL and GLUT libraries installed before compi
 ```bash
 cd path\to\your\project
 ```
-4.Compile the program using:
+4. Compile the program using:
 ```bash
 g++ main.cpp -o CarAnimation -lfreeglut -lopengl32 -lglu32
 ```
-5.Run the executable:
+5. Run the executable:
 ```bash
 CarAnimation.exe
 ```
