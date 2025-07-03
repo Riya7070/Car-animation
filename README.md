@@ -31,27 +31,20 @@ This project is a dynamic 2D OpenGL animation simulating a car driving along a r
 > 💡 On Windows, you can use [FreeGLUT](http://freeglut.sourceforge.net/) with MinGW or Visual Studio.  
 > 💡 On Linux/macOS, you can use the native `freeglut` package: `sudo apt install freeglut3-dev` or `brew install freeglut`.
 
-## How to Compile and Run
+## 🚀 How to Compile and Run
 
 Make sure you have the required OpenGL and GLUT libraries installed before compiling the project.
 
-### Windows (using MinGW + FreeGLUT)
+---
 
-1. **Install MinGW** with `g++` compiler.
-2. **Install FreeGLUT** development libraries and place `freeglut.dll` in the same folder or in `C:\Windows\System32`.
-3. Open **Command Prompt** and navigate to the project directory:
+### 🪟 Windows (using MinGW + FreeGLUT)
+
+1. **Install MinGW** with the `g++` compiler.
+2. **Install FreeGLUT** development libraries and place `freeglut.dll` in the same folder as the executable, or in `C:\Windows\System32`.
+3. Open **Command Prompt** and navigate to your project directory:
 
 ```bash
 cd path\to\your\project
-Compile the program using:
 
-bash
-Copy
-Edit
-g++ main.cpp -o CarAnimation -lfreeglut -lopengl32 -lglu32
-Run the executable:
 
-bash
-Copy
-Edit
-CarAnimation.exe
+
