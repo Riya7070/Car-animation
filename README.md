@@ -21,3 +21,9 @@ This project is a dynamic 2D OpenGL animation simulating a car driving along a r
 | `M` or `m`  | Move car to the right (forward) |
 | `R` or `r`  | Move car to the left (reverse) |
 | `ESC`       | Exit the application |
+
+## Requirements
+
+- C++ compiler (e.g., g++, MinGW, or clang++)
+- OpenGL Utility Toolkit (GLUT) installed
+- OpenGL development libraries
