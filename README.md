@@ -12,6 +12,14 @@ This project is a dynamic 2D OpenGL animation simulating a car driving along a r
 6. Direction control and speed adjustment via keyboard.
 7. Lightweight and runs using only core OpenGL and GLUT.
 
+## Preview
+
+### Sunny Weather with Trees and Clouds
+![Sunny Scene](red_car.png)
+
+### Rainy Weather with Animated Raindrops
+![Rain Scene](blue_car.png)
+
 ## Controls
 
 | Key | Action |
